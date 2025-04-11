@@ -38,6 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'feedback',  # Custom app for feedback system
+    'rest_framework',  
+    
 ]
 
 MIDDLEWARE = [
